@@ -8,8 +8,16 @@
                 "<all_urls>"
             ],
             "js": [
-                "content.js"
+                "p5.js", "p5.dom.js", "sketch.js"
             ]
         }
-    ]
+    ],
+    "background":{
+        "scripts" :[
+            "background.js"
+        ]
+    },
+    "browser_action":{
+
+    }
 }
